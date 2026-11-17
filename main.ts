@@ -1,3 +1,5 @@
+// Mirror Shrine's handoff program for make.fun's best-game-01 bounty.
+// The kit's vendored dossier builder is used unchanged; the game and its screenshots are ours.
 // A working best-game-01 entry (Node 22, standard library only): the game is this directory's
 // game/ folder, plain static files a desktop browser loads offline (game/index.html and its ES
 // modules, no library and no network request), and the program hands it in. It copies game/ and
