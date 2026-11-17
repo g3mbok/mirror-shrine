@@ -1,5 +1,6 @@
 // Every tuning number, colour and label for Mirror Shrine lives here.
 // The simulation uses a fixed 1280x720 logical field; the renderer scales it to the window.
+// Keeping the field fixed makes every wave read the same on a laptop and a wide monitor.
 
 export const FIELD = { width: 1280, height: 720 };
 
